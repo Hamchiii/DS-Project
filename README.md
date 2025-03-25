@@ -17,7 +17,8 @@ Le projet s’appuie sur plusieurs types de fichiers :
   - `dwd_icon_eu_demand_20200920_20231027.nc` : Données de demande énergétique issues du modèle ICON (DWD) pour la période initiale.
   - `dwd_icon_eu_demand_20231027_20240108.nc` : Données complémentaires couvrant la transition de la période précédente vers janvier 2024.
   - `dwd_icon_eu_demand_20240108_20240129.nc` : Données couvrant la fin de janvier 2024, permettant d’affiner la compréhension des dynamiques récentes.
-  Ces fichiers sont disponibles sur ce site web: https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition. 
+  Ces fichiers sont disponibles sur ce site web: https://ieee-dataport.org/competitions/hybrid-energy-forecasting-and-trading-competition.
+
   Il vous faut télécharger les dwd_icon_eu.
 
 - **Autres fichiers :**
